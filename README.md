@@ -29,5 +29,5 @@ Assignment 3
 3. Kernel function
   3.1 Kernel properties.
   
-============================================================================================
+======================================================================================
 Besides the content of Assignments, the course also include decision tree, Principle Component Analysis(PCA), t-SNE, EM alorgrithm, Ensembles (Gradient Boosting) and Reinforcement Learning (Q learning). 
